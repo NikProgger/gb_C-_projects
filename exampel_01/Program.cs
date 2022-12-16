@@ -4,7 +4,6 @@ int a = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Ведите Второе число:");
 int b = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(b);
 
  if (a > b)
     {
