@@ -10,4 +10,4 @@ for (int i = 0; i < arr.Length; i++)
     }
 }
  
-Console.WriteLine("Колличество чисел: " + count);
+Console.WriteLine("Кол-во чисел: " + count);
